@@ -1,0 +1,40 @@
+/**banner**/
+.banner{width: 100%;text-align: center;margin-bottom: 65px;}
+.banner img{width: 100%;}
+/**body**/
+.list{width: 1136px;margin: 0 auto;}
+.list ul{text-align: center;margin-bottom: 50px;}
+.list ul li{list-style: none;display: inline-block;margin: 0 22px;}
+.list ul li .title{font-size: 22px;color: #00a1ea;text-align: center;margin-bottom: 27px;}
+.list ul li .img1,.list ul li .img2,.list ul li .img3{height: 280px;width: 310px;margin-bottom: 14px;}
+.list ul li .img1{background: url(../images/img1.gif) no-repeat center;}
+.list ul li .img2{background: url(../images/img2.gif) no-repeat center;}
+.list ul li .img3{background: url(../images/img3.gif) no-repeat center;}
+.list ul li .text{font-size: 16px;color: #616161;text-align: center;line-height: 25px;}
+
+.juanzhu{position: relative;margin-bottom: 75px;margin-bottom: 85px;}
+.juanzhu img{width: 100%}
+.juanzhu a{
+	display: inline-block;width: 132px;height: 28px;line-height: 28px;font-size: 14px;
+	text-align: center;color: #fff;background: #00a1ea;border-radius: 5px;
+	position: absolute;
+}
+.juanzhu a.button1{top: 75%;left: 31.5%;}
+.juanzhu a.button2{top: 75%;right: 31.5%; }
+.down{width: 1136px;height: 599px;border-bottom: 1px solid #ccc;margin: 0 auto 78px;}
+.down .left-img{width: 467px;}
+.down .text{margin-top: 138px;width: 584px;}
+.down .text .title{font-size: 40px;margin-bottom: 39px;}
+.down .text .t{font-size: 20px;color: #333;line-height: 24px;margin-bottom: 70px;}
+.down .text a{float: left;display: inline-block;width: 190px;height: 56px;line-height: 56px;text-align: center;background: #00a1ea;color: #fff;font-size: 20px;border-radius: 5px;margin: 0 7px;}
+.down .text img{float: left;}
+.partner{width: 1136px;margin: 0 auto 35px;}
+.partner .title{font-size: 40px;text-align: center;color: #000;}
+.partner .img{text-align:justify;text-align-last:justify;}
+.partner .img img{display: inline;margin: 0 15px;}
+
+
+
+
+
+
